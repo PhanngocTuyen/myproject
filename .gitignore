@@ -6,3 +6,5 @@ alo
 *.log
 # muốn bỏ qua file abc.xyz nhưng giữ file myfile.xyz
 /*.xyz
+# minh muon bo qua file abc.txt trong seconfolder
+seconfolder/abc.txt
