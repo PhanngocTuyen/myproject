@@ -1,0 +1,6 @@
+
+# day la comment khong co tac dung ignore folder 
+# để git không theo dõi thư mục alo thì ghi alo hoặc alo/
+alo
+# chung ta se bỏ qua tất cả các file có đuôi là .log
+*.log
