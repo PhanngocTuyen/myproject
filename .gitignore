@@ -4,3 +4,5 @@
 alo
 # chung ta se bỏ qua tất cả các file có đuôi là .log
 *.log
+# muốn bỏ qua file abc.xyz nhưng giữ file myfile.xyz
+/*.xyz
